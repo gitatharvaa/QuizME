@@ -75,7 +75,7 @@ fun TopContent(totalPerPerson: Double = 1345.0){
         .fillMaxWidth()
         .padding(12.dp)
         .height(150.dp)
-        .clip(shape = CircleShape.copy(all = CornerSize(30.dp))),
+        .clip(shape = CircleShape.copy(all = CornerSize(26.dp))),
         color = Color(0xFFFFCCFF)
     ) {
         Column(modifier = Modifier.padding(12.dp),
