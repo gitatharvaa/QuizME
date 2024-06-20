@@ -1,4 +1,4 @@
-###QuizMe
+# QuizMe
 QuizMe is a robust Android application built using modern technologies and best practices. It allows users to participate in quizzes, test their knowledge, and have an engaging experience. 
 Let’s dive into the technical details:
 
