@@ -3,7 +3,8 @@ QuizMe is a robust Android application built using modern technologies and best 
 Let’s dive into the technical details:
 
 
-**Features**
+## Features
+
 *Jetpack Compose UI*: We’ve leveraged Jetpack Compose to create a beautiful and responsive user interface. Compose’s declarative approach simplifies UI development.
 
 *Clean Architecture*: Our app follows a clean architecture approach, separating concerns into three layers: data, domain, and presentation (UI). This promotes maintainability and scalability.
@@ -17,9 +18,9 @@ Let’s dive into the technical details:
 *JSON Serialization with Gson*: Gson efficiently handles JSON serialization and deserialization.
 
 
-**Getting Started**
+## Getting Started
 
-Clone this repository.
+0.Clone this repository.
 1.Set up Jetpack Compose in your project.
 2.Configure Hilt for dependency injection.
 3.Create an API service interface (e.g., ApiService.kt) with Retrofit annotations.
