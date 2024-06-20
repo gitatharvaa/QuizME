@@ -21,10 +21,17 @@ Let’s dive into the technical details:
 ## Getting Started
 
 0.Clone this repository.
+
 1.Set up Jetpack Compose in your project.
+
 2.Configure Hilt for dependency injection.
+
 3.Create an API service interface (e.g., ApiService.kt) with Retrofit annotations.
+
 4.Define your app’s features and screens using Jetpack Compose components.
+
 5.Utilize ViewModel to manage state and data.
+
 6.Integrate your API endpoints using Retrofit and Gson.
+
 7.Feel free to explore the codebase and enhance QuizMe further! If you have any questions or need assistance, don’t hesitate to reach out.
